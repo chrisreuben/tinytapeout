@@ -2,7 +2,7 @@
 project: ALU4bit
   title:        "abcd"      
   author:       "chris "       
-  discord:      "chuckkkk"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "4 bit alu "     
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:      500000000
