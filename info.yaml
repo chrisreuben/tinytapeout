@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project: ALU4bit
-  title:        ""      # Project title
-  author:       ""      CHRIS 
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      4 bit alu 
+  title:        "abcd"      
+  author:       "chris "       
+  discord:      "chuckkkk"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "4 bit alu "     
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:      500000000
   # How many tiles your design occupies? A single tile is about 167x108 uM.
